@@ -1,0 +1,14 @@
+<dependencies>
+    <!-- Другие зависимости вашего проекта -->
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.32</version>
+    </dependency>
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-simple</artifactId>
+        <version>1.7.32</version>
+        <scope>runtime</scope>
+    </dependency>
+</dependencies>
